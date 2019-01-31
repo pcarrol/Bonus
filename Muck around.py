@@ -35,11 +35,11 @@
 #radius = input("Enter the radius with a decimal point: ")
 #print("The area is: ", compute_circle_area(radius))
 
-a = list(range(1,100))
-mof3or5 = []
-for i in a:
-    if i % 3 == 0 or i % 5 == 0:
-        mof3or5.append(i)
-print("The multiples of 3 and 5 are: ", mof3or5)
+#a = list(range(1,100))
+#mof3or5 = []
+#for i in a:
+#    if i % 3 == 0 or i % 5 == 0:
+#        mof3or5.append(i)
+#print("The multiples of 3 and 5 are: ", mof3or5)
 
 
