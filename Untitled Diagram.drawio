@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-21T04:10:51.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="0DeXgF6If5EhUcwX1iUx" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-21T04:39:49.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="O8Z5wf48JB_hBfsQLtnO" version="12.7.2" type="github">
   <diagram id="Ns8TB9k6B7BA3dVQWUGG" name="Page-1">
-    <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,17 +9,33 @@
         </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-1" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="49" as="sourcePoint" />
-            <mxPoint x="800" y="49" as="targetPoint" />
+            <mxPoint x="-140" y="39" as="sourcePoint" />
+            <mxPoint x="580" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-3" value="Join" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="19" width="40" height="20" as="geometry" />
+          <mxGeometry x="65" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-4" target="COK3GCsZX3T8CLw1UcPQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-26" value="Welcome SMS/eDM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="COK3GCsZX3T8CLw1UcPQ-25">
+          <mxGeometry x="-0.2748" y="-1" relative="1" as="geometry">
+            <mxPoint x="9.990000000000002" y="-2.2699999999999996" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-4" value="Sales contact centre" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1067/1067566.svg;" parent="1" vertex="1">
           <mxGeometry x="60" y="347" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3j8oUQN09gYwykHITEtm-5" value="Digital sales and&#xa;Bots" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1640/1640809.svg;imageBackground=#ffffff;" parent="1" vertex="1">
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-5" target="COK3GCsZX3T8CLw1UcPQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-24" value="Welcome SMS &lt;br&gt;and&lt;br&gt;Visa letter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="COK3GCsZX3T8CLw1UcPQ-23">
+          <mxGeometry x="-0.3307" y="2" relative="1" as="geometry">
+            <mxPoint x="3.12" y="27.39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3j8oUQN09gYwykHITEtm-5" value="Digital sales &#xa;and bots" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1640/1640809.svg;imageBackground=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="180" y="170" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-6" value="Retail store" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1326/1326546.svg;" parent="1" vertex="1">
@@ -42,6 +58,14 @@
         <mxCell id="COK3GCsZX3T8CLw1UcPQ-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-9" target="3j8oUQN09gYwykHITEtm-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-9" target="COK3GCsZX3T8CLw1UcPQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-19" value="Visa letter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="COK3GCsZX3T8CLw1UcPQ-18">
+          <mxGeometry x="0.0954" y="-1" relative="1" as="geometry">
+            <mxPoint x="11.28" y="6.05" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-9" value="bupa.com.au&#xa;corporate.bupa.com.au&#xa;migration.bupa.com.au" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/811/811768.svg;" parent="1" vertex="1">
           <mxGeometry x="60" y="237" width="50" height="50" as="geometry" />
         </mxCell>
@@ -51,20 +75,31 @@
         <mxCell id="COK3GCsZX3T8CLw1UcPQ-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="COK3GCsZX3T8CLw1UcPQ-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-7">
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="COK3GCsZX3T8CLw1UcPQ-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="COK3GCsZX3T8CLw1UcPQ-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-4">
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="COK3GCsZX3T8CLw1UcPQ-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-6">
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-11" target="3j8oUQN09gYwykHITEtm-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-11" value="Consumer" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1306/1306440.svg;" parent="1" vertex="1">
           <mxGeometry x="-140" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-12" target="COK3GCsZX3T8CLw1UcPQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3j8oUQN09gYwykHITEtm-12" target="COK3GCsZX3T8CLw1UcPQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-21" value="Visa letter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="COK3GCsZX3T8CLw1UcPQ-20">
+          <mxGeometry x="0.3366" y="-1" relative="1" as="geometry">
+            <mxPoint x="-15.79" y="22.05" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-12" value="OSHC portal" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/811/811768.svg;" parent="1" vertex="1">
           <mxGeometry x="60" y="517" width="50" height="50" as="geometry" />
@@ -76,10 +111,31 @@
           <mxGeometry x="-140" y="517" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="COK3GCsZX3T8CLw1UcPQ-13" value="Customer" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/2519/2519075.svg;" vertex="1" parent="1">
-          <mxGeometry x="230" y="710" width="50" height="50" as="geometry" />
+          <mxGeometry x="250" y="370" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="COK3GCsZX3T8CLw1UcPQ-14" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1447/1447743.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-16" value="Bulk enrolment&#xa;and bots" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/2286/2286676.svg;imageBackground=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="180" y="517" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="COK3GCsZX3T8CLw1UcPQ-27" target="COK3GCsZX3T8CLw1UcPQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="COK3GCsZX3T8CLw1UcPQ-27" target="COK3GCsZX3T8CLw1UcPQ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-27" value="Welcome kit batch" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/2286/2286676.svg;imageBackground=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="373.84" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="COK3GCsZX3T8CLw1UcPQ-28" target="COK3GCsZX3T8CLw1UcPQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://abcorp.com/wp-content/uploads/2017/10/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="351.54" y="220" width="94.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-29" value="BOSS" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://storefront.internal.bupa.com.au/Citrix/XenAppWeb/Resources/Icon/L0NpdHJpeC9YZW5BcHAvcmVzb3VyY2VzL3YyL01VWTFiMEo2T1ZSeWR6RlFUMnQxYTBGR1MwUmtTaTlKVkc1M1BRLS0vaW1hZ2U-?size=128;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
