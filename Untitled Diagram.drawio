@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T04:50:49.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cUu0YptCldCI0KDjksqX" version="12.7.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-27T21:03:27.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="SXuTWbRhd9THBiIhLOUz" version="12.7.8" type="github">
   <diagram id="Ns8TB9k6B7BA3dVQWUGG" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
         </mxCell>
         <mxCell id="COK3GCsZX3T8CLw1UcPQ-74" value="Apply for Health Insurance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;fontSize=12;labelBorderColor=#000000;rotation=-91;" parent="COK3GCsZX3T8CLw1UcPQ-2" vertex="1" connectable="0">
           <mxGeometry x="0.21" y="-2" relative="1" as="geometry">
-            <mxPoint x="-34.17" y="140.67" as="offset" />
+            <mxPoint x="-34.17" y="150.67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3j8oUQN09gYwykHITEtm-11" value="Consumer" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1306/1306440.svg;" parent="1" vertex="1">
@@ -575,7 +575,7 @@
         <mxCell id="DEALhcKuOMUuAGFNjWsx-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEALhcKuOMUuAGFNjWsx-158" target="DEALhcKuOMUuAGFNjWsx-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DEALhcKuOMUuAGFNjWsx-158" value="Company payroll" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://img.icons8.com/dotty/2x/company.png;" vertex="1" parent="1">
+        <mxCell id="DEALhcKuOMUuAGFNjWsx-158" value="Company payroll" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://img.icons8.com/dotty/2x/company.png;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="39.389999999999986" y="741" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
