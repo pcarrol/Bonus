@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-02T05:10:38.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wQVG_lfSpEmfquBECCYK" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T06:41:56.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="uhq-7jCE8RmHO75Nrrlr" version="12.7.9" type="github">
   <diagram id="Ns8TB9k6B7BA3dVQWUGG" name="Page-1">
-    <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,7 +416,7 @@
           <mxGeometry x="662.91" y="110" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MaFsSqHFL_aDIbuKhQJ8-34" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;labelBackgroundColor=#ffffff;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="472.99999999999994" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="472.99999999999994" y="181" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MaFsSqHFL_aDIbuKhQJ8-35" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;labelBackgroundColor=#ffffff;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="622.0000000000001" y="210" width="20" height="20" as="geometry" />
@@ -568,6 +568,21 @@
         </mxCell>
         <mxCell id="MaFsSqHFL_aDIbuKhQJ8-32" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;labelBackgroundColor=#ffffff;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="282" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ2ZN3utCK6ckdLz9zwI-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/sketchdock-ecommerce-icons/alert-triangle-red.png;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="384" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ2ZN3utCK6ckdLz9zwI-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/sketchdock-ecommerce-icons/alert-triangle-red.png;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ2ZN3utCK6ckdLz9zwI-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/sketchdock-ecommerce-icons/alert-triangle-red.png;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="660.91" y="132" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ2ZN3utCK6ckdLz9zwI-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/sketchdock-ecommerce-icons/alert-triangle-red.png;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="810" y="750" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ2ZN3utCK6ckdLz9zwI-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/sketchdock-ecommerce-icons/alert-triangle-red.png;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="471" y="201" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
