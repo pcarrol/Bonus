@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-05T03:23:05.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="AXkTPKMZfDiPsFVlASbm" version="13.1.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-05T04:35:55.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="K_9tfuZSLc9K9XgjUF-k" version="13.1.14" type="github" pages="2">
   <diagram id="hk6ELaQ-MRmQtzhBVNc5" name="Process">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="4WiJh5IRzapoKeAukom9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4WiJh5IRzapoKeAukom9-19" target="4WiJh5IRzapoKeAukom9-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4WiJh5IRzapoKeAukom9-19" value="Add memberships to file.&amp;nbsp; Include member no, correct family type, from date (use date of most recent past change) and to date (if future change then use date of most recent future change else null)" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4WiJh5IRzapoKeAukom9-19" value="Add memberships to file.&amp;nbsp; Include member no, current package/fund, correct family type, from date (use date of most recent past change) and to date (if future change then use date of most recent future change else null)" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4WiJh5IRzapoKeAukom9-23" value="Daily Scale Discrepancy Report" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;fontSize=12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
