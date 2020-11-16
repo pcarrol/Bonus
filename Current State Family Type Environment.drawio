@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T22:50:30.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="eJ7huWDYcCMvB3aUz5i4" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T22:51:13.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="Stm0p-duh38tdSK_TcYK" version="13.9.6" type="github">
   <diagram id="Ns8TB9k6B7BA3dVQWUGG" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,6 +451,9 @@
         </mxCell>
         <mxCell id="vP00YayC0I7qo__Pr0LN-2" value="Product team" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1584/1584911.svg;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="907.9100000000001" y="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vP00YayC0I7qo__Pr0LN-5" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="720" y="218.26" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
