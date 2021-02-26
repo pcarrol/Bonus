@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T00:27:58.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XuezHVC1PZkkH-2Jjv7B" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T01:35:55.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="8t58oTrRRMtQTn9xXlX8" version="14.4.3" type="github">
   <diagram id="Ns8TB9k6B7BA3dVQWUGG" name="Page-1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
             <mxPoint x="357" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="COK3GCsZX3T8CLw1UcPQ-69" value="Customer Admin&#xa;team" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1584/1584911.svg;" parent="dhRZBU3aFt9_n93tNdM4-19" vertex="1">
+        <mxCell id="COK3GCsZX3T8CLw1UcPQ-69" value="Member services&#xa;team" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://image.flaticon.com/icons/svg/1584/1584911.svg;" parent="dhRZBU3aFt9_n93tNdM4-19" vertex="1">
           <mxGeometry x="200" y="322" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dhRZBU3aFt9_n93tNdM4-10" value="17" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="dhRZBU3aFt9_n93tNdM4-19" vertex="1">
